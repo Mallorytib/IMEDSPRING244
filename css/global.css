@@ -1,0 +1,16 @@
+/*color*/ 
+/* 
+50% #B1753F -secondary
+50% #3f7bb1 -dominant
+*/
+
+
+:root{ 
+
+
+--dominantColor:#3f7bb1; /*var(--dominantColor) !important; */
+--secondaryColor: #B1753F; /*var(--secondaryColor) !important; */
+
+
+
+}
