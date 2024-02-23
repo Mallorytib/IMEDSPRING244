@@ -1,11 +1,2 @@
-.fa-row{
-    background-color: aqua;
-}
-.first-paragraph-row{
-    background-color: aquamarine;
-}
-
-.custom-color{ 
-background-color:#B1753F; 
-height: 200px;
-}
+@import "global.css";
+@import "main.css";
