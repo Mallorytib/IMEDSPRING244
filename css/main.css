@@ -12,7 +12,7 @@ h2 {
 }
  
 .top-logo {
-    height: 10px;
+    height: auto;
     font-weight: bold;
     color: var(--dominantColor) !important ;
     font-size: 80px;
