@@ -7,10 +7,10 @@
 
 :root{ 
 
+    /*var(--dominantColor) !important; */
+    --dominantColor:#3f7bb1; 
 
---dominantColor:#3f7bb1; /*var(--dominantColor) !important; */
---secondaryColor: #B1753F; /*var(--secondaryColor) !important; */
-
-
+    /*var(--secondaryColor) !important; */
+    --secondaryColor: #B1753F; 
 
 }
