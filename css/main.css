@@ -39,12 +39,12 @@ h2 {
 }
 
 .navbar{
-    background-color: #ffffff;
+    background-color: var(--dominantColor) !important;
 }
 
 .nav-link{
     font-size: 20px !important ; 
-    color: #ffffff !important ;
+    color: black !important ;
 }
 
 .nav-link:hover{
