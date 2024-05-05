@@ -37,3 +37,16 @@ h2 {
     text-decoration: none;
 
 }
+
+.navbar{
+    background-color: #ffffff;
+}
+
+.nav-link{
+    font-size: 20px; !important; 
+}
+
+.nav-link:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 3px ;
+}
