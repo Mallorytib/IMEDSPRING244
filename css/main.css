@@ -16,14 +16,14 @@ h2 {
     height: auto;
     font-weight: bold;
     color: var(--dominantColor) !important ;
-    font-size: 55px;
-    padding-top: 40px ;
-    padding-bottom: 0px;
+    font-size: 25px;
+    padding-top: 20px ;
+    padding-bottom: 10px;
     border: #ffffff;
 }
 
 #top-logo-small {
-    font-size: 29px;
+    font-size: 20px;
     font-family: "Oswald", sans-serif;
     color: var(--dominantColor) !important ;
 
