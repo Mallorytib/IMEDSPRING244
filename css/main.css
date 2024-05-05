@@ -16,9 +16,9 @@ h2 {
     height: auto;
     font-weight: bold;
     color: var(--dominantColor) !important ;
-    font-size: 150px;
+    font-size: 100px;
     padding-top: 10px ;
-    padding-bottom: 50px;
+    padding-bottom: 10px;
     border: #ffffff;
 }
 
