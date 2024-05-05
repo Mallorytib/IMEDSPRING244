@@ -16,8 +16,8 @@ h2 {
     height: auto;
     font-weight: bold;
     color: var(--dominantColor) !important ;
-    font-size: 75px;
-    padding-top: 20px ;
+    font-size: 150px;
+    padding-top: 10px ;
     padding-bottom: 50px;
     border: #ffffff;
 }
@@ -31,7 +31,7 @@ h2 {
 
 .material-symbols-outlined,
 .material-symbols-outlined a{
-    font-size: 60px;
+    font-size: 20px;
     color: var(--dominantColor) !important ;
     top: 0px;
     text-decoration: none;
